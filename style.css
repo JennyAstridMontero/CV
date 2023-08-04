@@ -1,0 +1,150 @@
+*{
+    background: rgb(254,249,239);
+}
+
+h2 {
+    font-size: 25px;
+    color: black;
+    font-family: Helvetica;
+    text-align: center;
+
+}
+
+h4 {
+    font-size: 20px;
+    font-family: Helvetica;
+    color: gray;
+    
+}
+
+strong {
+    font-size: 15px;
+    font-family: Helvetica;
+    color: black;
+}
+
+.bloque-uno{
+    font-size: 16px;
+    background-color: rgb(23,195,178);
+    display: flex;
+    padding: 20px;
+    border-style: none;
+    font-family: verdana
+
+}
+
+.contact {
+    font-size: 16px;
+    margin: auto;
+    font-family: verdana;
+    padding: 2%;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border: solid 5px gray;
+}
+
+.education{
+    font-size: 16px;
+    margin: auto;
+    font-family: verdana;
+    padding: 2%;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border: solid 5px gray;
+}
+
+.profile-description {
+    Font-size: 20px;
+    font-family: Calibri;
+    border-style: dotted;
+    padding: auto;
+    background-color: whitesmoke;
+    Color: black
+
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+}
+.image-profile{
+
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+    border-radius: 100%;
+}
+.image-profile > .imagen{
+    
+    width: 98%;
+    height: 98%;
+    border-radius: 100%;    
+}
+
+.Personal-dates{
+    background: white;
+    display: block;
+    justify-content: center;
+}
+
+.bloque-dos{
+    font-size: 14px;
+    background-color: rgb(34,124,157);
+    display: flex;
+    border-style: dotted;
+    padding: auto;
+    font-family: verdana;
+}
+
+.experience {
+    font-size: 18px;
+    margin: auto;
+    font-family: verdana;
+    padding: 1%;
+    
+}
+
+.bloque-tres{
+    font-size: 16px;
+    background-color: rgb(23,195,178);
+    display: flex;
+    padding: 2%;
+    font-family: verdana
+
+}
+
+
+.no-formal {
+    font-size: 16px;
+    margin: auto;
+    font-family: verdana;
+    padding: 2%;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border: solid 5px gray;
+    
+
+}
+
+.skills {
+    font-size: 16px;
+    margin: auto;
+    font-family: verdana;
+    padding: 2%;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+
+}
+
+.trama {
+    border-width:  5px gray;
+}
+
